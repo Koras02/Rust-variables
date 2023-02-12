@@ -27,7 +27,7 @@
 //      let spaces = spaces.len();
 // }
 
-fn main() {
-    let mut spaces = "   ";
-    spaces = spaces.len();
-}
+// fn main() {
+//     let mut spaces = "   ";
+//     spaces = spaces.len();
+// } 
